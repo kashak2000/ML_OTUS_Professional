@@ -1,2 +1,2 @@
 # ML_OTUS_Professional
-Домашние работы по курсу ML Professional
+Домашние работы OTUS по курсу ML Professional
